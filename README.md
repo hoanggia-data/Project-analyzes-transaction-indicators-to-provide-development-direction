@@ -1,6 +1,6 @@
 Phân tích này không chỉ cung cấp một cái nhìn toàn diện về hiệu suất kinh doanh tháng qua mà còn là cơ sở vững chắc để đề xuất các phương hướng chiến lược nhằm tối ưu hóa doanh thu, nâng cao trải nghiệm khách hàng và thúc đẩy tăng trưởng trong quý tới.
 Những Phát hiện Chính (Key Findings):
-Phân tích theo Thời gian (Time-based Analysis):
+- Phân tích theo Thời gian (Time-based Analysis):
 Giờ vàng: Khối lượng giao dịch đạt đỉnh trong khoảng thời gian từ [Giờ bắt đầu] đến [Giờ kết thúc]. Đây là thời điểm khách hàng hoạt động tích cực nhất.
 Ngày cao điểm: Số lượng và tổng giá trị giao dịch tăng vọt vào các ngày [Ví dụ: Thứ Sáu, Thứ Bảy], cho thấy xu hướng mua sắm/giao dịch cuối tuần rất rõ rệt.
 Phân tích Khách hàng (Customer-level Analysis):
