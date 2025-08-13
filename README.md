@@ -3,7 +3,7 @@ Phân tích này không chỉ cung cấp một cái nhìn toàn diện về hi�
 Những Phát hiện Chính (Key Findings):
 
 - Phân tích theo Thời gian (Time-based Analysis):
-- 
+
 Giờ vàng: Khối lượng giao dịch đạt đỉnh trong khoảng thời gian từ [Giờ bắt đầu] đến [Giờ kết thúc]. Đây là thời điểm khách hàng hoạt động tích cực nhất.
 
 Ngày cao điểm: Số lượng và tổng giá trị giao dịch tăng vọt vào các ngày [Ví dụ: Thứ Sáu, Thứ Bảy], cho thấy xu hướng mua sắm/giao dịch cuối tuần rất rõ rệt.
