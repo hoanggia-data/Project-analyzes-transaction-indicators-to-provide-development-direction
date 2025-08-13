@@ -18,3 +18,4 @@ Hành động: Gửi thông báo đẩy (push notification) hoặc email marketi
 Tối ưu hóa Nguồn lực Vận hành:
 Mục tiêu: Đảm bảo hệ thống ổn định và dịch vụ hỗ trợ khách hàng hoạt động hiệu quả trong giờ cao điểm.
 Hành động: Tăng cường nhân sự hỗ trợ khách hàng (customer support) và giám sát hệ thống trong các khung giờ và ngày cao điểm đã xác định để đảm bảo trải nghiệm người dùng liền mạch, tránh quá tải.
+![Uploading 481292484_1809140799919185_5606742955392663440_n.jpg…]()
